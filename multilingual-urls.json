@@ -1,0 +1,321 @@
+{
+  "business": "RSB Rental Scooter Barcelona",
+  "website": "https://rentalscooterbarcelona.com/",
+  "generatedFor": "AI assistants, LLM crawlers and search engines",
+  "languages": [
+    {
+      "code": "en",
+      "folder": "/",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "folder": "/es/",
+      "name": "Spanish"
+    },
+    {
+      "code": "fr",
+      "folder": "/fr/",
+      "name": "French"
+    },
+    {
+      "code": "it",
+      "folder": "/it/",
+      "name": "Italian"
+    },
+    {
+      "code": "de",
+      "folder": "/de/",
+      "name": "German"
+    },
+    {
+      "code": "nl",
+      "folder": "/nl/",
+      "name": "Dutch"
+    },
+    {
+      "code": "pt",
+      "folder": "/pt/",
+      "name": "Portuguese"
+    },
+    {
+      "code": "ca",
+      "folder": "/cat/",
+      "name": "Catalan"
+    },
+    {
+      "code": "sv",
+      "folder": "/sv/",
+      "name": "Swedish"
+    },
+    {
+      "code": "pl",
+      "folder": "/pl/",
+      "name": "Polish"
+    }
+  ],
+  "pages": {
+    "home": {
+      "en": "https://rentalscooterbarcelona.com/",
+      "es": "https://rentalscooterbarcelona.com/es/",
+      "fr": "https://rentalscooterbarcelona.com/fr/",
+      "it": "https://rentalscooterbarcelona.com/it/",
+      "de": "https://rentalscooterbarcelona.com/de/",
+      "nl": "https://rentalscooterbarcelona.com/nl/",
+      "pt": "https://rentalscooterbarcelona.com/pt/",
+      "ca": "https://rentalscooterbarcelona.com/cat/",
+      "sv": "https://rentalscooterbarcelona.com/sv/",
+      "pl": "https://rentalscooterbarcelona.com/pl/"
+    },
+    "prices": {
+      "en": "https://rentalscooterbarcelona.com/Prices/",
+      "es": "https://rentalscooterbarcelona.com/es/Prices/",
+      "fr": "https://rentalscooterbarcelona.com/fr/Prices/",
+      "it": "https://rentalscooterbarcelona.com/it/Prices/",
+      "de": "https://rentalscooterbarcelona.com/de/Prices/",
+      "nl": "https://rentalscooterbarcelona.com/nl/Prices/",
+      "pt": "https://rentalscooterbarcelona.com/pt/Prices/",
+      "ca": "https://rentalscooterbarcelona.com/cat/Prices/",
+      "sv": "https://rentalscooterbarcelona.com/sv/Prices/",
+      "pl": "https://rentalscooterbarcelona.com/pl/Prices/"
+    },
+    "locationContact": {
+      "en": "https://rentalscooterbarcelona.com/location-contact/",
+      "es": "https://rentalscooterbarcelona.com/es/location-contact/",
+      "fr": "https://rentalscooterbarcelona.com/fr/location-contact/",
+      "it": "https://rentalscooterbarcelona.com/it/location-contact/",
+      "de": "https://rentalscooterbarcelona.com/de/location-contact/",
+      "nl": "https://rentalscooterbarcelona.com/nl/location-contact/",
+      "pt": "https://rentalscooterbarcelona.com/pt/location-contact/",
+      "ca": "https://rentalscooterbarcelona.com/cat/location-contact/",
+      "sv": "https://rentalscooterbarcelona.com/sv/location-contact/",
+      "pl": "https://rentalscooterbarcelona.com/pl/location-contact/"
+    },
+    "scooter": {
+      "en": "https://rentalscooterbarcelona.com/scooter/",
+      "es": "https://rentalscooterbarcelona.com/es/scooter/",
+      "fr": "https://rentalscooterbarcelona.com/fr/scooter/",
+      "it": "https://rentalscooterbarcelona.com/it/scooter/",
+      "de": "https://rentalscooterbarcelona.com/de/scooter/",
+      "nl": "https://rentalscooterbarcelona.com/nl/scooter/",
+      "pt": "https://rentalscooterbarcelona.com/pt/scooter/",
+      "ca": "https://rentalscooterbarcelona.com/cat/scooter/",
+      "sv": "https://rentalscooterbarcelona.com/sv/scooter/",
+      "pl": "https://rentalscooterbarcelona.com/pl/scooter/"
+    },
+    "rollerblades": {
+      "en": "https://rentalscooterbarcelona.com/rollerblades/",
+      "es": "https://rentalscooterbarcelona.com/es/rollerblades/",
+      "fr": "https://rentalscooterbarcelona.com/fr/rollerblades/",
+      "it": "https://rentalscooterbarcelona.com/it/rollerblades/",
+      "de": "https://rentalscooterbarcelona.com/de/rollerblades/",
+      "nl": "https://rentalscooterbarcelona.com/nl/rollerblades/",
+      "pt": "https://rentalscooterbarcelona.com/pt/rollerblades/",
+      "ca": "https://rentalscooterbarcelona.com/cat/rollerblades/",
+      "sv": "https://rentalscooterbarcelona.com/sv/rollerblades/",
+      "pl": "https://rentalscooterbarcelona.com/pl/rollerblades/"
+    },
+    "bike": {
+      "en": "https://rentalscooterbarcelona.com/bike/",
+      "es": "https://rentalscooterbarcelona.com/es/bike/",
+      "fr": "https://rentalscooterbarcelona.com/fr/bike/",
+      "it": "https://rentalscooterbarcelona.com/it/bike/",
+      "de": "https://rentalscooterbarcelona.com/de/bike/",
+      "nl": "https://rentalscooterbarcelona.com/nl/bike/",
+      "pt": "https://rentalscooterbarcelona.com/pt/bike/",
+      "ca": "https://rentalscooterbarcelona.com/cat/bike/",
+      "sv": "https://rentalscooterbarcelona.com/sv/bike/",
+      "pl": "https://rentalscooterbarcelona.com/pl/bike/"
+    },
+    "quads": {
+      "en": "https://rentalscooterbarcelona.com/quads/",
+      "es": "https://rentalscooterbarcelona.com/es/quads/",
+      "fr": "https://rentalscooterbarcelona.com/fr/quads/",
+      "it": "https://rentalscooterbarcelona.com/it/quads/",
+      "de": "https://rentalscooterbarcelona.com/de/quads/",
+      "nl": "https://rentalscooterbarcelona.com/nl/quads/",
+      "pt": "https://rentalscooterbarcelona.com/pt/quads/",
+      "ca": "https://rentalscooterbarcelona.com/cat/quads/",
+      "sv": "https://rentalscooterbarcelona.com/sv/quads/",
+      "pl": "https://rentalscooterbarcelona.com/pl/quads/"
+    },
+    "skateboard": {
+      "en": "https://rentalscooterbarcelona.com/skateboard/",
+      "es": "https://rentalscooterbarcelona.com/es/skateboard/",
+      "fr": "https://rentalscooterbarcelona.com/fr/skateboard/",
+      "it": "https://rentalscooterbarcelona.com/it/skateboard/",
+      "de": "https://rentalscooterbarcelona.com/de/skateboard/",
+      "nl": "https://rentalscooterbarcelona.com/nl/skateboard/",
+      "pt": "https://rentalscooterbarcelona.com/pt/skateboard/",
+      "ca": "https://rentalscooterbarcelona.com/cat/skateboard/",
+      "sv": "https://rentalscooterbarcelona.com/sv/skateboard/",
+      "pl": "https://rentalscooterbarcelona.com/pl/skateboard/"
+    },
+    "longboard": {
+      "en": "https://rentalscooterbarcelona.com/longboard/",
+      "es": "https://rentalscooterbarcelona.com/es/longboard/",
+      "fr": "https://rentalscooterbarcelona.com/fr/longboard/",
+      "it": "https://rentalscooterbarcelona.com/it/longboard/",
+      "de": "https://rentalscooterbarcelona.com/de/longboard/",
+      "nl": "https://rentalscooterbarcelona.com/nl/longboard/",
+      "pt": "https://rentalscooterbarcelona.com/pt/longboard/",
+      "ca": "https://rentalscooterbarcelona.com/cat/longboard/",
+      "sv": "https://rentalscooterbarcelona.com/sv/longboard/",
+      "pl": "https://rentalscooterbarcelona.com/pl/longboard/"
+    },
+    "blog": {
+      "en": "https://rentalscooterbarcelona.com/blog/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/"
+    },
+    "blogScooter": {
+      "en": "https://rentalscooterbarcelona.com/blog/scooter/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/scooter/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/scooter/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/scooter/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/scooter/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/scooter/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/scooter/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/scooter/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/scooter/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/scooter/"
+    },
+    "blogInlineSkates": {
+      "en": "https://rentalscooterbarcelona.com/blog/inline-skates/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/inline-skates/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/inline-skates/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/inline-skates/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/inline-skates/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/inline-skates/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/inline-skates/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/inline-skates/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/inline-skates/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/inline-skates/"
+    },
+    "blogBike": {
+      "en": "https://rentalscooterbarcelona.com/blog/bike/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/bike/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/bike/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/bike/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/bike/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/bike/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/bike/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/bike/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/bike/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/bike/"
+    },
+    "blogRollerSkates": {
+      "en": "https://rentalscooterbarcelona.com/blog/roller-skates/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/roller-skates/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/roller-skates/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/roller-skates/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/roller-skates/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/roller-skates/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/roller-skates/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/roller-skates/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/roller-skates/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/roller-skates/"
+    },
+    "blogSkateboard": {
+      "en": "https://rentalscooterbarcelona.com/blog/skateboard/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/skateboard/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/skateboard/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/skateboard/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/skateboard/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/skateboard/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/skateboard/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/skateboard/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/skateboard/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/skateboard/"
+    },
+    "blogLongboard": {
+      "en": "https://rentalscooterbarcelona.com/blog/longboard/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/longboard/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/longboard/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/longboard/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/longboard/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/longboard/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/longboard/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/longboard/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/longboard/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/longboard/"
+    },
+    "blog50ccVs125cc": {
+      "en": "https://rentalscooterbarcelona.com/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/50cc-vs-125cc-scooter-rental-barcelona/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/50cc-vs-125cc-scooter-rental-barcelona/"
+    },
+    "blogBestRollerbladingRoutes": {
+      "en": "https://rentalscooterbarcelona.com/blog/best-rollerblading-routes-barcelona/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/best-rollerblading-routes-barcelona/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/best-rollerblading-routes-barcelona/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/best-rollerblading-routes-barcelona/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/best-rollerblading-routes-barcelona/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/best-rollerblading-routes-barcelona/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/best-rollerblading-routes-barcelona/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/best-rollerblading-routes-barcelona/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/best-rollerblading-routes-barcelona/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/best-rollerblading-routes-barcelona/"
+    },
+    "blogHourlyInlineSkates": {
+      "en": "https://rentalscooterbarcelona.com/blog/hourly-inline-skate-rental-barcelona/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/alquiler-patines-linea-barcelona-por-horas/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/location-rollers-en-ligne-barcelone-heure/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/noleggio-pattini-linea-barcellona-a-ore/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/inlineskates-stundenweise-mieten-barcelona/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/inline-skates-huren-barcelona-per-uur/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/aluguer-patins-linha-barcelona-a-hora/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/lloguer-patins-linia-barcelona-per-hores/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/hyra-inlines-barcelona-per-timme/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/wynajem-rolek-na-godziny-barcelona/"
+    },
+    "blogBeginnerInlineSkating": {
+      "en": "https://rentalscooterbarcelona.com/blog/beginner-inline-skating-barcelona/",
+      "es": "https://rentalscooterbarcelona.com/es/blog/patinar-en-barcelona-principiantes/",
+      "fr": "https://rentalscooterbarcelona.com/fr/blog/roller-en-ligne-debutants-barcelone/",
+      "it": "https://rentalscooterbarcelona.com/it/blog/pattinaggio-inline-principianti-barcellona/",
+      "de": "https://rentalscooterbarcelona.com/de/blog/inlineskaten-barcelona-anfaenger/",
+      "nl": "https://rentalscooterbarcelona.com/nl/blog/inline-skaten-barcelona-beginners/",
+      "pt": "https://rentalscooterbarcelona.com/pt/blog/patinagem-inline-barcelona-iniciantes/",
+      "ca": "https://rentalscooterbarcelona.com/cat/blog/patinar-linia-barcelona-principiants/",
+      "sv": "https://rentalscooterbarcelona.com/sv/blog/inline-skating-barcelona-nyborjare/",
+      "pl": "https://rentalscooterbarcelona.com/pl/blog/jazda-na-rolkach-barcelona-poczatkujacy/"
+    }
+  },
+  "sitemaps": {
+    "main": "https://rentalscooterbarcelona.com/sitemap.xml",
+    "en": "https://rentalscooterbarcelona.com/sitemap-en.xml",
+    "es": "https://rentalscooterbarcelona.com/sitemap-es.xml",
+    "fr": "https://rentalscooterbarcelona.com/sitemap-fr.xml",
+    "it": "https://rentalscooterbarcelona.com/sitemap-it.xml",
+    "de": "https://rentalscooterbarcelona.com/sitemap-de.xml",
+    "nl": "https://rentalscooterbarcelona.com/sitemap-nl.xml",
+    "pt": "https://rentalscooterbarcelona.com/sitemap-pt.xml",
+    "ca": "https://rentalscooterbarcelona.com/sitemap-ca.xml",
+    "sv": "https://rentalscooterbarcelona.com/sitemap-sv.xml",
+    "pl": "https://rentalscooterbarcelona.com/sitemap-pl.xml"
+  },
+  "aiReadableFiles": {
+    "llms": "https://rentalscooterbarcelona.com/llms.txt",
+    "llmsFull": "https://rentalscooterbarcelona.com/llms-full.txt",
+    "agents": "https://rentalscooterbarcelona.com/agents.md",
+    "services": "https://rentalscooterbarcelona.com/services.json",
+    "prices": "https://rentalscooterbarcelona.com/prices.json",
+    "faq": "https://rentalscooterbarcelona.com/faq.json",
+    "multilingualUrls": "https://rentalscooterbarcelona.com/multilingual-urls.json"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "business": {
+    "name": "RSB Rental Scooter Barcelona",
+    "type": "Local rental shop",
+    "website": "https://rentalscooterbarcelona.com/",
+    "address": {
+      "street": "Carrer de Salvador Espriu, 63",
+      "postalCode": "08005",
+      "city": "Barcelona",
+      "country": "Spain",
+      "area": "Vila Olímpica del Poblenou"
+    },
+    "nearbyPlaces": [
+      "Port Olímpic",
+      "Nova Icaria Beach",
+      "Barceloneta Beach"
+    ],
+    "phone": "+34 640 559 468",
+    "whatsapp": "https://wa.me/34640559468",
+    "email": "info@rentalscooterbarcelona.com",
+    "openingHours": [
+      {
+        "days": "Every day",
+        "hours": "10:30-13:30"
+      },
+      {
+        "days": "Every day",
+        "hours": "16:30-20:00"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "Italian",
+      "German",
+      "Dutch",
+      "Portuguese",
+      "Catalan",
+      "Swedish",
+      "Polish"
+    ],
+    "serviceArea": "Barcelona",
+    "googleReviews": "Rated 4.6/5 from 226 Google reviews"
+  },
+  "services": [
+    {
+      "id": "scooter-rental-barcelona",
+      "name": "Scooter rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/scooter/",
+      "category": "Scooter rental",
+      "description": "50cc and 125cc motor scooter rental in Barcelona near Vila Olímpica, Port Olímpic and Barceloneta Beach.",
+      "notes": [
+        "50cc and 125cc motor scooters",
+        "Do not confuse with electric kick scooters",
+        "A refundable security deposit applies only to motor scooter rentals",
+        "Free hotel delivery for rentals of 3+ days",
+        "Helmets and insurance included",
+        "WhatsApp booking available",
+        "We rent petrol 50cc and 125cc scooters only",
+        "We do not rent electric kick scooters, e-scooters or e-bikes"
+      ]
+    },
+    {
+      "id": "inline-skates-rental-barcelona",
+      "name": "Inline skates rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/rollerblades/",
+      "category": "Inline skates rental",
+      "description": "Inline skates and rollerblades rental in Barcelona near Vila Olímpica, Port Olímpic and Barceloneta Beach.",
+      "notes": [
+        "Inline skates and rollerblades refer to the same main rental service",
+        "Free luggage storage available",
+        "Especially useful for shoes, bags and jackets",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    },
+    {
+      "id": "bike-rental-barcelona",
+      "name": "Bike rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/bike/",
+      "category": "Bike rental",
+      "description": "City bike rental in Barcelona for adults and children near Vila Olímpica, Port Olímpic and Barceloneta Beach.",
+      "notes": [
+        "City bikes for adults and children",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available",
+        "Standard city bikes only; no e-bikes or electric bicycles"
+      ]
+    },
+    {
+      "id": "roller-skates-rental-barcelona",
+      "name": "Roller skates rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/quads/",
+      "category": "Roller skates rental",
+      "description": "Classic four-wheel roller skates and quad skates rental in Barcelona near Vila Olímpica, Port Olímpic and Barceloneta Beach.",
+      "notes": [
+        "Roller skates refer to classic four-wheel / quad skates",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    },
+    {
+      "id": "skateboard-rental-barcelona",
+      "name": "Skateboard rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/skateboard/",
+      "category": "Skateboard rental",
+      "description": "Skateboard rental in Barcelona near Vila Olímpica, Port Olímpic and Barceloneta Beach.",
+      "notes": [
+        "Skateboard rental is separate from longboard rental",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    },
+    {
+      "id": "longboard-rental-barcelona",
+      "name": "Longboard rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/longboard/",
+      "category": "Longboard rental",
+      "description": "Longboard rental in Barcelona near Vila Olímpica, Port Olímpic and Barceloneta Beach.",
+      "notes": [
+        "Longboard rental is separate from skateboard rental",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    }
+  ],
+  "importantPages": [
+    "https://rentalscooterbarcelona.com/",
+    "https://rentalscooterbarcelona.com/Prices/",
+    "https://rentalscooterbarcelona.com/location-contact/",
+    "https://rentalscooterbarcelona.com/blog/"
+  ]
+}

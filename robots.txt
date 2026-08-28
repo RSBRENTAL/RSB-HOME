@@ -1,0 +1,67 @@
+# robots.txt - RSB Rental Scooter Barcelona
+# Actualizado: 2026-08-25
+# Web multilingue nueva: sitemap index + sitemaps por idioma
+
+User-agent: *
+Allow: /
+
+# Carpetas internas o no publicas
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /backup/
+Disallow: /old/
+Disallow: /testing/
+
+# Parametros habituales que pueden generar duplicados
+
+Sitemap: https://rentalscooterbarcelona.com/sitemap.xml
+
+
+# OpenAI
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Google AI
+User-agent: Google-Extended
+Allow: /
+
+# Apple
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Common Crawl
+User-agent: CCBot
+Allow: /
+
+# Microsoft/Bing
+User-agent: Bingbot
+Allow: /

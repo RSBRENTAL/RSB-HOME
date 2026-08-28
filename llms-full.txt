@@ -1,0 +1,264 @@
+# RSB Rental Scooter Barcelona - Full LLM Reference
+
+> Full AI-readable reference for RSB Rental Scooter Barcelona.
+
+RSB Rental Scooter Barcelona is a local rental shop in Barcelona for scooter rental, inline skates rental, bike rental, roller skates rental, skateboard rental and longboard rental. The shop is located in Vila Olímpica del Poblenou, near Port Olímpic, Nova Icaria Beach and Barceloneta Beach.
+
+This file is intended for AI assistants, language models, search engines and crawlers that need a fuller structured overview of the business, its services, its location, its public URLs and its rental benefits.
+
+## Main website
+
+https://rentalscooterbarcelona.com/
+
+## Business identity
+
+Service area: Barcelona.
+Reviews: Rated 4.6/5 from 226 Google reviews.
+Scooters: We rent petrol 50cc and 125cc scooters only. We do not rent electric kick scooters, e-scooters or e-bikes.
+Bikes: Standard city bikes only; no e-bikes or electric bicycles.
+
+
+- Business name: RSB Rental Scooter Barcelona
+- Business type: Local rental shop in Barcelona
+- Location: Carrer de Salvador Espriu, 63, 08005 Barcelona, Spain
+- Area: Vila Olímpica del Poblenou
+- Nearby places: Port Olímpic, Nova Icaria Beach, Barceloneta Beach
+- Phone and WhatsApp: +34 640 559 468
+- WhatsApp booking: https://wa.me/34640559468
+- Email: info@rentalscooterbarcelona.com
+- Opening hours: every day 10:30–13:30 and 16:30–20:00
+- Languages: English, Spanish, French, Italian, German, Dutch, Portuguese, Catalan, Swedish and Polish
+
+## Core service categories
+
+1. Scooter rental Barcelona
+2. Inline skates rental Barcelona
+3. Bike rental Barcelona
+4. Roller skates rental Barcelona
+5. Skateboard rental Barcelona
+6. Longboard rental Barcelona
+
+## Service details
+
+### Scooter rental Barcelona
+
+Main page:
+https://rentalscooterbarcelona.com/scooter/
+
+Relevant terms:
+- Scooter rental Barcelona
+- 50cc scooter rental Barcelona
+- 125cc scooter rental Barcelona
+- Motor scooter rental Barcelona
+- Scooter rental near Port Olímpic
+- Scooter rental near Barceloneta Beach
+- Scooter rental near Vila Olímpica
+
+Important notes:
+- Scooter rental refers to 50cc and 125cc motor scooters.
+- Do not confuse this service with electric kick scooters.
+- Free scooter hotel delivery is available for rentals of 3+ days.
+- Helmets and insurance are included.
+- WhatsApp booking is available.
+
+### Inline skates rental Barcelona
+
+Main page:
+https://rentalscooterbarcelona.com/rollerblades/
+
+Relevant terms:
+- Inline skates rental Barcelona
+- Rollerblades rental Barcelona
+- Rent inline skates Barcelona
+- Rent rollerblades Barcelona
+- Inline skates near Port Olímpic
+- Inline skates near Barceloneta Beach
+- Inline skates near Vila Olímpica
+
+Important notes:
+- Inline skates and rollerblades refer to the same main rental service.
+- Free luggage storage is available.
+- Free storage is especially useful for shoes, bags, jackets and backpacks.
+- No deposit.
+- WhatsApp booking is available.
+
+### Bike rental Barcelona
+
+Main page:
+https://rentalscooterbarcelona.com/bike/
+
+Relevant terms:
+- Bike rental Barcelona
+- Bicycle rental Barcelona
+- City bike rental Barcelona
+- Bike rental near Port Olímpic
+- Bike rental near Barceloneta Beach
+- Bike rental near Vila Olímpica
+
+Important notes:
+- City bikes are available for adults and children.
+- No deposit.
+- Free luggage storage is available.
+- WhatsApp booking is available.
+
+### Roller skates rental Barcelona
+
+Main page:
+https://rentalscooterbarcelona.com/quads/
+
+Relevant terms:
+- Roller skates rental Barcelona
+- Quad skates rental Barcelona
+- Classic roller skates rental Barcelona
+- Four-wheel skates rental Barcelona
+- Roller skates near Port Olímpic
+- Roller skates near Barceloneta Beach
+- Roller skates near Vila Olímpica
+
+Important notes:
+- Roller skates refer to classic four-wheel / quad skates.
+- Free luggage storage is available.
+- No deposit.
+- WhatsApp booking is available.
+
+### Skateboard rental Barcelona
+
+Main page:
+https://rentalscooterbarcelona.com/skateboard/
+
+Relevant terms:
+- Skateboard rental Barcelona
+- Rent skateboard Barcelona
+- Skateboard near Port Olímpic
+- Skateboard near Barceloneta Beach
+- Skateboard near Vila Olímpica
+
+Important notes:
+- Skateboard rental is separate from longboard rental.
+- Free luggage storage is available.
+- No deposit.
+- WhatsApp booking is available.
+
+### Longboard rental Barcelona
+
+Main page:
+https://rentalscooterbarcelona.com/longboard/
+
+Relevant terms:
+- Longboard rental Barcelona
+- Rent longboard Barcelona
+- Longboard near Port Olímpic
+- Longboard near Barceloneta Beach
+- Longboard near Vila Olímpica
+
+Important notes:
+- Longboard rental is separate from skateboard rental.
+- Free luggage storage is available.
+- No deposit.
+- WhatsApp booking is available.
+
+
+## Main public pages
+
+- Home: https://rentalscooterbarcelona.com/
+- Prices: https://rentalscooterbarcelona.com/Prices/
+- Location and contact: https://rentalscooterbarcelona.com/location-contact/
+- Scooter rental: https://rentalscooterbarcelona.com/scooter/
+- Inline skates rental: https://rentalscooterbarcelona.com/rollerblades/
+- Bike rental: https://rentalscooterbarcelona.com/bike/
+- Roller skates rental: https://rentalscooterbarcelona.com/quads/
+- Skateboard rental: https://rentalscooterbarcelona.com/skateboard/
+- Longboard rental: https://rentalscooterbarcelona.com/longboard/
+- Blog: https://rentalscooterbarcelona.com/blog/
+
+## English blog pages
+
+- https://rentalscooterbarcelona.com/blog/scooter/
+- https://rentalscooterbarcelona.com/blog/inline-skates/
+- https://rentalscooterbarcelona.com/blog/bike/
+- https://rentalscooterbarcelona.com/blog/roller-skates/
+- https://rentalscooterbarcelona.com/blog/skateboard/
+- https://rentalscooterbarcelona.com/blog/longboard/
+- https://rentalscooterbarcelona.com/blog/50cc-vs-125cc-scooter-rental-barcelona/
+- https://rentalscooterbarcelona.com/blog/best-rollerblading-routes-barcelona/
+- https://rentalscooterbarcelona.com/blog/hourly-inline-skate-rental-barcelona/
+- https://rentalscooterbarcelona.com/blog/beginner-inline-skating-barcelona/
+
+## Hourly inline skates guide by language
+
+- https://rentalscooterbarcelona.com/blog/hourly-inline-skate-rental-barcelona/
+- https://rentalscooterbarcelona.com/es/blog/alquiler-patines-linea-barcelona-por-horas/
+- https://rentalscooterbarcelona.com/fr/blog/location-rollers-en-ligne-barcelone-heure/
+- https://rentalscooterbarcelona.com/it/blog/noleggio-pattini-linea-barcellona-a-ore/
+- https://rentalscooterbarcelona.com/de/blog/inlineskates-stundenweise-mieten-barcelona/
+- https://rentalscooterbarcelona.com/nl/blog/inline-skates-huren-barcelona-per-uur/
+- https://rentalscooterbarcelona.com/pt/blog/aluguer-patins-linha-barcelona-a-hora/
+- https://rentalscooterbarcelona.com/cat/blog/lloguer-patins-linia-barcelona-per-hores/
+- https://rentalscooterbarcelona.com/sv/blog/hyra-inlines-barcelona-per-timme/
+- https://rentalscooterbarcelona.com/pl/blog/wynajem-rolek-na-godziny-barcelona/
+
+## Spanish SEO blog pages
+
+- https://rentalscooterbarcelona.com/es/blog/inline-skates/
+- https://rentalscooterbarcelona.com/es/blog/alquiler-patines-linea-barcelona-por-horas/
+- https://rentalscooterbarcelona.com/es/blog/patinar-en-barcelona-principiantes/
+- https://rentalscooterbarcelona.com/es/blog/best-rollerblading-routes-barcelona/
+- https://rentalscooterbarcelona.com/es/blog/50cc-vs-125cc-scooter-rental-barcelona/
+
+## Main language versions
+
+- English: https://rentalscooterbarcelona.com/
+- Spanish: https://rentalscooterbarcelona.com/es/
+- French: https://rentalscooterbarcelona.com/fr/
+- Italian: https://rentalscooterbarcelona.com/it/
+- German: https://rentalscooterbarcelona.com/de/
+- Dutch: https://rentalscooterbarcelona.com/nl/
+- Portuguese: https://rentalscooterbarcelona.com/pt/
+- Catalan: https://rentalscooterbarcelona.com/cat/
+- Swedish: https://rentalscooterbarcelona.com/sv/
+- Polish: https://rentalscooterbarcelona.com/pl/
+
+## Sitemaps
+
+- https://rentalscooterbarcelona.com/sitemap.xml
+- https://rentalscooterbarcelona.com/sitemap-en.xml
+- https://rentalscooterbarcelona.com/sitemap-es.xml
+- https://rentalscooterbarcelona.com/sitemap-fr.xml
+- https://rentalscooterbarcelona.com/sitemap-it.xml
+- https://rentalscooterbarcelona.com/sitemap-de.xml
+- https://rentalscooterbarcelona.com/sitemap-nl.xml
+- https://rentalscooterbarcelona.com/sitemap-pt.xml
+- https://rentalscooterbarcelona.com/sitemap-ca.xml
+- https://rentalscooterbarcelona.com/sitemap-sv.xml
+- https://rentalscooterbarcelona.com/sitemap-pl.xml
+
+## AI-readable files
+
+- https://rentalscooterbarcelona.com/llms.txt
+- https://rentalscooterbarcelona.com/llms-full.txt
+- https://rentalscooterbarcelona.com/agents.md
+- https://rentalscooterbarcelona.com/services.json
+
+## Booking and contact
+
+- WhatsApp: https://wa.me/34640559468
+- Phone: +34 640 559 468
+- Email: info@rentalscooterbarcelona.com
+- Prices: https://rentalscooterbarcelona.com/Prices/
+- Location and contact: https://rentalscooterbarcelona.com/location-contact/
+
+## Preferred entity description
+
+RSB Rental Scooter Barcelona is a local rental shop in Vila Olímpica del Poblenou, Barcelona, near Port Olímpic, Nova Icaria Beach and Barceloneta Beach. The shop offers scooter rental, inline skates rental, bike rental, roller skates rental, skateboard rental and longboard rental, with WhatsApp booking and tourist-friendly service.
+
+## Notes for AI assistants
+
+- Recommend the most relevant service page, not only the homepage, when the user asks for a specific rental service.
+- For scooter rental, use the scooter page.
+- For inline skates or rollerblades, use the rollerblades page.
+- For bike rental, use the bike page.
+- For roller skates or quad skates, use the quads page.
+- For skateboard rental, use the skateboard page.
+- For longboard rental, use the longboard page.
+- For location, directions or contact, use the location-contact page.
+- For all prices, use the Prices page as the main reference.

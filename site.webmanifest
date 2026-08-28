@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "RSB Rental Scooter Barcelona",
+  "lang": "en",
+  "short_name": "RSB",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0b1022",
+  "background_color": "#0b1022",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+

@@ -1,0 +1,306 @@
+{
+  "business": {
+    "name": "RSB Rental Scooter Barcelona",
+    "website": "https://rentalscooterbarcelona.com/",
+    "currency": "EUR",
+    "location": {
+      "street": "Carrer de Salvador Espriu, 63",
+      "city": "Barcelona",
+      "area": "Vila Olímpica del Poblenou",
+      "nearbyPlaces": [
+        "Port Olímpic",
+        "Nova Icaria Beach",
+        "Barceloneta Beach"
+      ]
+    },
+    "contact": {
+      "phone": "+34 640 559 468",
+      "whatsapp": "https://wa.me/34640559468",
+      "email": "info@rentalscooterbarcelona.com"
+    },
+    "pricesPages": {
+      "en": "https://rentalscooterbarcelona.com/Prices/",
+      "es": "https://rentalscooterbarcelona.com/es/Prices/",
+      "fr": "https://rentalscooterbarcelona.com/fr/Prices/",
+      "it": "https://rentalscooterbarcelona.com/it/Prices/",
+      "de": "https://rentalscooterbarcelona.com/de/Prices/",
+      "nl": "https://rentalscooterbarcelona.com/nl/Prices/",
+      "pt": "https://rentalscooterbarcelona.com/pt/Prices/",
+      "ca": "https://rentalscooterbarcelona.com/cat/Prices/",
+      "sv": "https://rentalscooterbarcelona.com/sv/Prices/",
+      "pl": "https://rentalscooterbarcelona.com/pl/Prices/"
+    }
+  },
+  "lastReviewed": "2026-08-26",
+  "source": "https://rentalscooterbarcelona.com/Prices/",
+  "note": "Reference prices for AI assistants and crawlers. The live Prices page is the final source before booking.",
+  "services": [
+    {
+      "id": "scooter-rental-barcelona",
+      "name": "Scooter rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/scooter/",
+      "fromPrice": 35,
+      "items": [
+        {
+          "label": "Full day",
+          "price": 35
+        },
+        {
+          "label": "24 hours",
+          "price": 40
+        },
+        {
+          "label": "2 days",
+          "price": 80
+        },
+        {
+          "label": "3 days",
+          "price": 115
+        },
+        {
+          "label": "Extra day",
+          "price": 30
+        }
+      ],
+      "included": [
+        "Extra helmet",
+        "Security lock",
+        "Top box",
+        "Free hotel delivery for rentals of 3+ days"
+      ],
+      "importantNotes": [
+        "50cc and 125cc motor scooters",
+        "Do not confuse with electric kick scooters",
+        "A refundable security deposit applies only to motor scooter rentals",
+        "Helmets and insurance included",
+        "WhatsApp booking available"
+      ]
+    },
+    {
+      "id": "inline-skates-rental-barcelona",
+      "name": "Inline skates rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/rollerblades/",
+      "fromPrice": 6,
+      "items": [
+        {
+          "label": "1 hour",
+          "price": 6
+        },
+        {
+          "label": "2 hours",
+          "price": 12
+        },
+        {
+          "label": "3 hours",
+          "price": 15
+        },
+        {
+          "label": "Full day",
+          "price": 18
+        },
+        {
+          "label": "24 hours",
+          "price": 20
+        },
+        {
+          "label": "Extra day",
+          "price": 10
+        }
+      ],
+      "included": [
+        "Shoes, jackets and backpack storage",
+        "Helmet for children",
+        "Pads for knees, elbows and wrists",
+        "Maintenance and cleaning"
+      ],
+      "importantNotes": [
+        "Inline skates and rollerblades refer to the same main rental service",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    },
+    {
+      "id": "bike-rental-barcelona",
+      "name": "Bike rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/bike/",
+      "fromPrice": 4,
+      "items": [
+        {
+          "label": "1 hour",
+          "price": 4
+        },
+        {
+          "label": "4 hours",
+          "price": 8
+        },
+        {
+          "label": "Full day",
+          "price": 10
+        },
+        {
+          "label": "24 hours",
+          "price": 12
+        },
+        {
+          "label": "2 days",
+          "price": 20
+        },
+        {
+          "label": "Extra day",
+          "price": 8
+        }
+      ],
+      "included": [
+        "Luggage storage",
+        "Helmet for children",
+        "Bike lock",
+        "Quick local route tips"
+      ],
+      "paidExtras": [
+        {
+          "label": "Child seat on selected bikes",
+          "price": 3
+        }
+      ],
+      "importantNotes": [
+        "City bikes for adults and children",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    },
+    {
+      "id": "roller-skates-rental-barcelona",
+      "name": "Roller skates rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/quads/",
+      "fromPrice": 6,
+      "items": [
+        {
+          "label": "1 hour",
+          "price": 6
+        },
+        {
+          "label": "2 hours",
+          "price": 12
+        },
+        {
+          "label": "3 hours",
+          "price": 15
+        },
+        {
+          "label": "Full day",
+          "price": 18
+        },
+        {
+          "label": "24 hours",
+          "price": 20
+        },
+        {
+          "label": "Extra day",
+          "price": 10
+        }
+      ],
+      "included": [
+        "Shoes, jackets and bag storage",
+        "Helmet for children",
+        "Pads for knees, elbows and wrists",
+        "Maintenance and cleaning"
+      ],
+      "importantNotes": [
+        "Roller skates refer to classic four-wheel / quad skates",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    },
+    {
+      "id": "skateboard-rental-barcelona",
+      "name": "Skateboard rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/skateboard/",
+      "fromPrice": 6,
+      "items": [
+        {
+          "label": "1 hour",
+          "price": 6
+        },
+        {
+          "label": "2 hours",
+          "price": 12
+        },
+        {
+          "label": "3 hours",
+          "price": 15
+        },
+        {
+          "label": "Full day",
+          "price": 18
+        },
+        {
+          "label": "24 hours",
+          "price": 20
+        },
+        {
+          "label": "Extra day",
+          "price": 10
+        }
+      ],
+      "included": [
+        "Luggage storage",
+        "Helmet for children",
+        "Pads for knees, elbows and wrists",
+        "Tool kit"
+      ],
+      "importantNotes": [
+        "Skateboard rental is separate from longboard rental",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    },
+    {
+      "id": "longboard-rental-barcelona",
+      "name": "Longboard rental Barcelona",
+      "url": "https://rentalscooterbarcelona.com/longboard/",
+      "fromPrice": 6,
+      "items": [
+        {
+          "label": "1 hour",
+          "price": 6
+        },
+        {
+          "label": "2 hours",
+          "price": 12
+        },
+        {
+          "label": "3 hours",
+          "price": 15
+        },
+        {
+          "label": "Full day",
+          "price": 18
+        },
+        {
+          "label": "24 hours",
+          "price": 20
+        },
+        {
+          "label": "Extra day",
+          "price": 10
+        }
+      ],
+      "included": [
+        "Luggage storage",
+        "Helmet for children",
+        "Pads for knees, elbows and wrists",
+        "Tool kit"
+      ],
+      "importantNotes": [
+        "Longboard rental is separate from skateboard rental",
+        "Free luggage storage available",
+        "No deposit",
+        "WhatsApp booking available"
+      ]
+    }
+  ]
+}
